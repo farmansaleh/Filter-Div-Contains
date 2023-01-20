@@ -1,0 +1,28 @@
+/*
+    author : @Farman Saleh
+ 	date   : January 20/2023
+ 	github : github.com/farmansaleh
+**/
+
+.qa-box {
+    width: 100%!important;
+    background-color: rgba(0,0,0,.03);
+}
+
+.card-header {
+    background: rgba(0,0,0,.03)!important;
+    color: #5a5a5a;
+    padding: 0.75rem 1.25rem;
+    font-weight: bolder;
+    font-size: 15px;
+    cursor: pointer;
+    border: 1px solid #ff7468;
+}
+.card-header:hover {
+    border : 1px solid #ff7468;
+    background: #ff7468!important;
+    color: white;
+}
+.card-body {
+    border: 1px solid #ff7468;
+}
